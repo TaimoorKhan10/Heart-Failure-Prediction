@@ -114,8 +114,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Dataset source: UCI Machine Learning Repository
-- Thanks to all contributors who have helped shape this project
-
 ## Contact
 
 Taimoor Khan - [GitHub](https://github.com/TaimoorKhan10)
